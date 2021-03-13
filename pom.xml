@@ -10,6 +10,7 @@
   <modules>
     <module>payment8001</module>
     <module>payment8002</module>
+    <module>payment8004</module>
     <module>order80</module>
     <module>common</module>
     <module>eureka-server7001</module>
